@@ -17,20 +17,16 @@ This is a portfolio about me created from the Gatsby Starter default and using R
 1.  **Gatsby**
 
   Use the Gatsby CLI to create a new site, specifying the default starter. Then start creating JSX files (JS for React) that will         store information for each page, components and many more. I have so far components for the layout, header, seo (site data collection)   and navigation bar (in progress). I will also try to implement more features such as, fluid transitions, interactive buttons and many   more.
-
-    ```sh
-    # create a new Gatsby site using the default starter
-    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
-    ```
+ 
+ # create a new Gatsby site using the default starter - gatsby new my-default-starter 
+ https://github.com/gatsbyjs/gatsby-starter-default
 
 2.  **React Bootstrap**
 
 This is essentially a CSS framework recreated for React users that will allow me to add features I want to include on my website such as  navigation bar, a jumbotron, cards and spinners. You require to do a npm install for their modules.
 
-```sh
-    # Get started with React Bootstrap
-    https://react-bootstrap.github.io/
-    ```
+# Get started with React Bootstrap - https://react-bootstrap.github.io/
+
 
 **`LICENSE`**: Gatsby is licensed under the MIT license.
 
