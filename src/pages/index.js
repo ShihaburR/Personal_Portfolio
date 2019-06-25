@@ -3,8 +3,8 @@ import { Link } from "gatsby"
 import Jumbotron from 'react-bootstrap/Jumbotron'
 
 import Layout from "../components/layout"
-import Image from "../images/link2.png"
-import Image2 from "../images/Github.png"
+import Image from "../components/images/link2.png"
+import Image2 from "../components/images/Github.png"
 import SEO from "../components/seo"
 
 const IndexPage = () => (
